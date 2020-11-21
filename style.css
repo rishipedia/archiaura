@@ -1,0 +1,164 @@
+/* navbar */
+body {
+    background: #070000; 
+ 
+background: -webkit-linear-gradient(to right, #070000, #4C0001, #070000); 
+ 
+background: linear-gradient(to right, #070000, #4C0001, #070000);
+}
+
+   
+  .nav-link {
+    color:white;
+  }
+  
+  
+
+  .navbar-toggler-icon {
+     color: white;
+     }
+
+/* background-slider */
+
+.carimage {   
+    width: 100%;
+ }
+
+.carousel-caption{
+ 
+  text-align: center;
+}
+
+@media (orientation:landscape){
+  .carinner {   
+    width: 1500px;
+    margin-left: -280px;
+  }
+  .carhead {
+    font-size:50px;
+  }
+
+  .car2{
+    font-size: 30px;
+  }
+}
+
+@media (orientation:portrait){
+  .carinner {   
+    width: 750px;
+    margin-left: -208px;
+  }
+}
+.carinner { 
+  background:rgba(85, 14, 4, 0.5); 
+}
+
+
+
+ 
+/* slider */
+@media (orientation:portrait){
+    .cool{
+        text-align: center;
+        position: relative;
+    }
+    .cool2{
+        display: inline-block;
+        
+    }
+}
+
+
+
+.cool3 {
+    border-radius: 5px;
+    box-shadow: 0 4px 6px -1px rgb(198, 207, 234);
+}
+
+/* blogposts */
+
+.firma-card{
+    background: rgba(126, 90, 86, 0.9);
+    border: 1px solid;
+    border-color: #c7bdbd40;
+    margin: 1rem auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px -1px rgb(198, 207, 234);
+    margin-bottom: 1.6%;
+    overflow: hidden;
+  }
+  .firma-resim{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-position: center;
+    transition: -webkit-transform .2s;
+    transition: transform .2s;
+    
+  }
+
+  .firma-aciklama {
+    color: white;
+  }
+  #blog1 {
+    background-image: url(https://thebridgebk.com/wp-content/uploads/2018/07/10-325-Kent-e1532965412535.jpg);
+  }
+
+  #blog2{
+    background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2011%2F03%2F201102-w-buildings-hearst.jpg);
+  }
+
+  #blog3{
+    background-image: url(https://www.telegraph.co.uk/content/dam/Travel/2018/September/summary-RESTRICTED-RIBA-TOHO-GAKUEN-SCHOOL.jpg?imwidth=1400);
+  }
+  .firmalar {
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/new-york-skyline-at-night-evelyn-deen.jpg");
+    background-size: 100% 100%;
+  }
+  
+  @media (max-width: 768px) {
+  
+    .firma-logo{
+          width: calc(33.66667% - .75rem);
+          height: 6.5rem;
+          margin: 5px .375rem;
+    }
+    .firma-resim {
+      position: relative;
+      z-index: 0;
+      height: 200px;
+    }
+    .img-padding-no{
+      padding-right: 0px;
+      padding-left: 0px;
+    }
+  }
+
+/* company image */
+
+#comp {
+  width: 100%;
+}
+#cimage{
+  width:100%;
+}
+
+  /* footer */
+
+  .social-part .fa{
+    padding-right:20px;
+}
+ul li a{
+    margin-right: 20px;
+}
+
+.fa{
+  color:white;
+}
+
+.foot {
+  background: #000000; 
+}
