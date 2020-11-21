@@ -1,4 +1,6 @@
-# archiaura is the project website that i (souvik das) has made for interview purpose.
+# Archiaura is the project website that i (souvik das) has made for interview purpose.
+
+The theme of this site is architecture.
 
 To open the file just click on this link, i have hosted it here on github.
 https://souvikotaku.github.io/archiaura/
