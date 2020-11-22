@@ -1,0 +1,117 @@
+/* navbar */
+body {
+    background: #070000; 
+ 
+background: -webkit-linear-gradient(to right, #070000, #4C0001, #070000); 
+ 
+background: linear-gradient(to right, #070000, #4C0001, #070000);
+}
+
+   
+.nav-link {
+    color:white;
+  }
+  
+  
+
+.navbar-toggler-icon {
+     color: white;
+     }
+
+/* map module and contact form */
+
+     #contatti{
+        background-image: url(https://cdn.hipwallpaper.com/i/64/98/y6kV9p.jpg);
+        background-size: cover;
+        letter-spacing: 2px;
+        }
+      #contatti a{
+        color: #fff;
+        text-decoration: none;
+      }
+      
+      
+      @media (max-width: 575.98px) {
+      
+        #contatti{padding-bottom: 800px;}
+        #contatti .maps iframe{
+          width: 100%;
+          height: 450px;
+        }
+       }
+      
+      
+      @media (min-width: 576px) {
+      
+         #contatti{padding-bottom: 800px;}
+      
+         #contatti .maps iframe{
+           width: 100%;
+           height: 450px;
+         }
+       }
+      
+      @media (min-width: 768px) {
+      
+        #contatti{padding-bottom: 350px;}
+      
+        #contatti .maps iframe{
+          width: 100%;
+          height: 850px;
+        }
+      }
+      
+      @media (min-width: 992px) {
+        #contatti{padding-bottom: 200px;}
+      
+         #contatti .maps iframe{
+           width: 100%;
+           height: 700px;
+         }
+      }
+      
+      
+      #author a{
+        color: #fff;
+        text-decoration: none;
+          
+      }
+
+      .form-check-label{
+          color: white;
+      }
+
+      .row{
+          padding: 5px;
+      }
+
+      .maps {
+        border-radius: 10px;
+      }
+
+/* company image */
+
+#comp {
+  width: 100%;
+}
+#cimage{
+  width:100%;
+}
+
+
+  /* footer */
+
+  .social-part .fa{
+    padding-right:20px;
+}
+ul li a{
+    margin-right: 20px;
+}
+
+.fa{
+  color:white;
+}
+
+.foot {
+  background: #000000; 
+}
