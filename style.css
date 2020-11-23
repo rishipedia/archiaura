@@ -71,6 +71,7 @@ background: linear-gradient(to right, #070000, #4C0001, #070000);
 .cool3 {
     border-radius: 5px;
     box-shadow: 0 4px 6px -1px rgb(198, 207, 234);
+    width: 100%;
 }
 
 /* blogposts */
