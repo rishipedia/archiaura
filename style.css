@@ -37,8 +37,9 @@ background: linear-gradient(to right, #070000, #4C0001, #070000);
 }
 
 @media (orientation:portrait){
-  .carinner {   
-    Padding-bottom: 5px;
+  .carinner {
+    position: relative;   
+    bottom: 5px;
   }
 }
 .carinner { 
