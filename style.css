@@ -46,13 +46,10 @@ background: linear-gradient(to right, #070000, #4C0001, #070000);
 .carinner { 
   background:rgba(85, 14, 4, 0.5); 
   border-radius: 10px;
-  position: relative;
-  width: 100%;
 }
 
 .carousel-caption {
   border-radius: 10px;
-  width: 100%;
 }
 
 /* slider */
