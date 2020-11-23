@@ -26,9 +26,8 @@ background: linear-gradient(to right, #070000, #4C0001, #070000);
 
 .carousel-caption{
  
-  position: relative;
+  position: absolute;
     left: 0;
-    right: 0;
     /*padding-top: 150px;*/
 
 }
