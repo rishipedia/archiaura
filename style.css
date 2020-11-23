@@ -34,8 +34,9 @@ background: linear-gradient(to right, #070000, #4C0001, #070000);
 
 @media (orientation:landscape){
   .carinner {   
-    width: 1500px;
-    margin-left: -280px;
+    /*width: 1500px;
+    margin-left: -280px;*/
+    width: 100%;
   }
   .carhead {
     font-size:50px;
@@ -48,8 +49,9 @@ background: linear-gradient(to right, #070000, #4C0001, #070000);
 
 @media (orientation:portrait){
   .carinner {   
-    width: 750px;
-    margin-left: -208px;
+    /*width: 750px;
+    margin-left: -208px;*/
+    width: 100%;
   }
 }
 .carinner { 
