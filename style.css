@@ -56,14 +56,14 @@ background: linear-gradient(to right, #070000, #4C0001, #070000);
  
 /* slider */
 @media (orientation:portrait){
-    .cool{
+    /*.cool{
         text-align: center;
         position: relative;
     }
     .cool2{
         display: inline-block;
         
-    }
+    }*/
 }
 
 
