@@ -50,8 +50,9 @@ background: linear-gradient(to right, #070000, #4C0001, #070000);
   border-radius: 10px;
 }
 
-
-
+.carousel-caption {
+  border-radius: 10px;
+}
  
 /* slider */
 @media (orientation:portrait){
