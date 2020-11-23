@@ -26,7 +26,7 @@ background: linear-gradient(to right, #070000, #4C0001, #070000);
 
 .carousel-caption{
  
-  position: relative;
+  /*position: relative;*/
     left: 0;
     padding-top: 150px; // Set relative to your carousel height
 
